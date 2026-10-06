@@ -218,3 +218,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Папки с генерируемыми данными
+data/
+output/
+
+# Файлы баз данных
+*.db
