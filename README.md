@@ -41,7 +41,7 @@
 1.  **Склонируйте репозиторий и установите зависимости:**
     ```bash
     git clone https://github.com/kadence-init/marketing-report-automator
-    cd <папка_репозитория>
+    cd marketing-report-automator
     pip install pandas openpyxl
     ```
 
